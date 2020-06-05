@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Success consists of going from failure to failure without loss of enthusiasm." -Winston Churchill
+"Failures, repeated failures, are finger posts on the road to achievement. One fails forward toward success." -C.S Lewis
 Use the left arrow to go back!
